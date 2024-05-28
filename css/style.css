@@ -1,10 +1,11 @@
 html {
+    background-color: #0000;
+    color: #ffff;
     font-size: 22px;
 }
 
 body {
-    background-color: #0000;
-    color: #ffff;
+    
     min-height: 100vh;
     max-width: 800px;
     margin: 0 auto;
